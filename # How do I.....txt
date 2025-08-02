@@ -1,0 +1,29 @@
+# How do I....
+
+##change  
+[a client's address]  
+[a clients' phone number]
+
+##add  
+[a pre-intake]  
+[a client](addanewclient.md)  
+[a family member]  
+[goals]
+##refer  
+[to another internal program]  
+[to an internal person]  
+[to an outside provider]
+##create  
+[a class]  
+[a group]  
+[a case note for multiple clients]  
+[a new goal]
+##update a client's  
+[income]  
+[family members]  
+[contact information]  
+[employment]  
+[goals]
+##enroll a client  
+[in a program]  
+[in a class]
